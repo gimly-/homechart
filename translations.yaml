@@ -3647,7 +3647,7 @@ translations:
   WebFormContactUsButtonFeedback:
     ar: تعليق
     context: Feedback button
-    de: Rückmeldung
+    de: Feedback
     en: Feedback
     es: Comentario
     fr: Retour
@@ -3677,7 +3677,7 @@ translations:
   WebFormContactUsFooter:
     ar: تواجه مشاكل؟ نحن هنا للمساعدة!
     context: Footer at bottom of Contact Us form
-    de: Probleme haben? Wir sind hier um zu helfen!
+    de: Haben Sie Probleme? Wir sind hier um zu helfen!
     en: Having problems?  We're here to help!
     es: ¿Teniendo problemas? ¡Estamos aquí para ayudar!
     fr: Avoir des problèmes? Nous sommes là pour vous aider !
@@ -6694,7 +6694,7 @@ translations:
   WebGlobalAllVaults:
     ar: جميع الخزائن
     context: All vaults for secrets
-    de: Alle Gewölbe
+    de: Alle Vaults
     en: All Vaults
     es: Todas las bóvedas
     fr: Tous les coffres
@@ -6714,7 +6714,7 @@ translations:
   WebGlobalBudgetBalance:
     ar: توازن
     context: Balance of an account
-    de: Gleichgewicht
+    de: Kontostand
     en: Balance
     es: Balance
     fr: Équilibre
